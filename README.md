@@ -1,6 +1,4 @@
 
-Check [my Telegram channel](https://telegram.org/ftdotdev)
-
 # @calcubot Telegram bot RCE exploit
 
 The exploit and explanation for the RCE and DoS vulnerability
